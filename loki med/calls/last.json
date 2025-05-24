@@ -1,0 +1,16 @@
+[
+    {
+        "doctor": "Johnson (Cardiologist)",
+        "link": "https://meet.google.com/gxd-fyyf-ska",
+        "status": "active",
+        "timestamp": "23-05-2025 08:41",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Smith (General Physician)",
+        "link": "https://meet.google.com/qdu-ibba-bvv",
+        "status": "active",
+        "timestamp": "23-05-2025 08:49",
+        "duration": "In progress"
+    }
+]

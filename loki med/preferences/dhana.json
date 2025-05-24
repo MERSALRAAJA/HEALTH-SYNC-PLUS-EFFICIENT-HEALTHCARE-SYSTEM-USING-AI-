@@ -1,0 +1,12 @@
+{
+    "email_notifications": true,
+    "app_notifications": true,
+    "notification_types": {
+        "Appointments": true,
+        "Medication Reminders": true,
+        "Doctor Messages": true,
+        "Health Readings": true
+    },
+    "theme": "Dark",
+    "font_size": "Large"
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "doctor": "Miller (Dermatologist)",
+        "link": "https://meet.google.com/def-ghi-jkl",
+        "status": "active",
+        "timestamp": "16-04-2025 10:50",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Davis (Neurologist)",
+        "link": "https://meet.google.com/ksp-xqxj-ogs",
+        "status": "active",
+        "timestamp": "21-04-2025 16:47",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Johnson (Cardiologist)",
+        "link": "https://meet.google.com/gxd-fyyf-ska",
+        "status": "active",
+        "timestamp": "21-04-2025 18:14",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Smith (General Physician)",
+        "link": "https://meet.google.com/qdu-ibba-bvv",
+        "status": "ended",
+        "timestamp": "21-04-2025 20:35",
+        "duration": "1 minutes",
+        "end_time": "21-04-2025 20:36"
+    },
+    {
+        "doctor": "Johnson (Cardiologist)",
+        "link": "https://meet.google.com/gxd-fyyf-ska",
+        "status": "active",
+        "timestamp": "21-04-2025 20:36",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Johnson (Cardiologist)",
+        "link": "https://meet.google.com/gxd-fyyf-ska",
+        "status": "active",
+        "timestamp": "21-04-2025 20:48",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Davis (Neurologist)",
+        "link": "https://meet.google.com/ksp-xqxj-ogs",
+        "status": "active",
+        "timestamp": "22-05-2025 01:31",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Smith (General Physician)",
+        "link": "https://meet.google.com/qdu-ibba-bvv",
+        "status": "active",
+        "timestamp": "22-05-2025 01:43",
+        "duration": "In progress"
+    },
+    {
+        "doctor": "Johnson (Cardiologist)",
+        "link": "https://meet.google.com/gxd-fyyf-ska",
+        "status": "active",
+        "timestamp": "22-05-2025 08:00",
+        "duration": "In progress"
+    }
+]

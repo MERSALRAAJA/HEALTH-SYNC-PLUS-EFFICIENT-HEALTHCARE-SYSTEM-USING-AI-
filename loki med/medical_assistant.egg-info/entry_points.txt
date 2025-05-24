@@ -1,0 +1,2 @@
+[console_scripts]
+medical_assistant = main:main
